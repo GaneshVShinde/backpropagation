@@ -1,2 +1,2 @@
-# BacpProp
-just rudimentary backProp algorithm implementation  
+# backpropagation
+just rudimentary backpropagation algorithm implementation  
